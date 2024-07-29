@@ -1,0 +1,6 @@
+Dear {{ username }},
+
+Your password has been successfully changed. Please login to the Sony Rewards MEA app by using your new password.
+
+Best Regards,
+Sony Middle East & Africa FZE

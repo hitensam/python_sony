@@ -1,0 +1,10 @@
+Dear {{ username }},
+
+We received a request to reset the password for your account. If you made this request, please use the below OTP to reset your password.
+
+OTP – {{ otp }}
+
+If you didn't make this request, ignore this email or report it to us by emailing to sonyloyalty@alphauniverse-mea.com.
+
+Best Regards,
+Sony Middle East & Africa FZE

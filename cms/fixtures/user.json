@@ -1,0 +1,22 @@
+[
+{
+    "model": "auth.user",
+    "pk": 14,
+    "fields": {
+        "password": "pbkdf2_sha256$216000$AjnhxgZtr18M$/uINEsnVHg4UAZP1kNzUij8KHb2/42vgWc1jwu59TU4=",
+        "last_login": "2021-03-11T08:33:24Z",
+        "is_superuser": false,
+        "username": "MISC18022021",
+        "first_name": "Micheal",
+        "last_name": "Scott",
+        "email": "scottmicheal@test.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2021-02-18T06:47:15Z",
+        "groups": [],
+        "user_permissions": [
+            73
+        ]
+    }
+}
+]

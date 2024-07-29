@@ -1,0 +1,9 @@
+[
+    {
+        "model": "api.appconfigdb",
+        "pk": 1,
+        "fields": {
+            "loyalty_percent": 5
+        }
+    }
+]

@@ -1,0 +1,10 @@
+Dear {{ username }},
+
+Here is the OTP to verify your email address. Please use the OTP mentioned below to verify your email address.
+
+OTP – {{ otp }}
+
+If you didn't make this request, ignore this email or report it to us by emailing to sonyloyalty@alphauniverse-mea.com.
+
+Best Regards,
+Sony Middle East & Africa FZE

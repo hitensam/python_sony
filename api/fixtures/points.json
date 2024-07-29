@@ -1,0 +1,11 @@
+[
+{
+    "model": "api.pointsdb",
+    "pk": 1,
+    "fields": {
+        "user": 14,
+        "point_balance": "3867.8500",
+        "points_date": "2021-03-21"
+    }
+}
+]

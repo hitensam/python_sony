@@ -1,0 +1,16 @@
+[
+{
+    "model": "api.transactiondb",
+    "pk": 14,
+    "fields": {
+        "invoice_id": "A123454521",
+        "user": 14,
+        "product_name": "WH-1000XM4 Wireless Noise Cancelling Headphones",
+        "product_cost": "1148.9900",
+        "points_applied": "57.4000",
+        "points_deducted": "0.0000",
+        "returned": false,
+        "transaction_date": "2021-03-10T07:18:36.112Z"
+    }
+}
+]

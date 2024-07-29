@@ -1,1 +1,1 @@
-# python_sony
+Backend code for Sony Loyalty App

@@ -1,0 +1,12 @@
+Hello {{ username }},
+
+Thank you for downloading and subscribing to the Sony Rewards MEA app. You can earn reward points at Sony Store Mall of the Emirates on purchase of any
+Sony product. We have various offers from time to time, therefore stay tuned to the
+updates on the Sony Rewards MEA app.
+
+If you have not subscribed to Sony Alpha Universe MEA, please visit the link https://alphauniverse-mea.com/ and create your account. The
+subscription to Sony Alpha Universe will give you access to the content shot by Sony’s Ambassadors, various Events/Webinar hosted on our platform and access to special discounts
+and product offering.
+
+Best Regards,
+Sony Middle East & Africa FZE
